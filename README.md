@@ -18,7 +18,9 @@ Steps
    Open a browser and navigate to (http://localhost/test/frontend/index.php)
 
 笔记应用
+
 这是一个使用 Vue.js 前端和 Node.js 后端的简单笔记应用，支持创建、编辑、删除笔记。
+
 前置条件
 1.XAMPP
 2.Node.js
