@@ -15,7 +15,7 @@ Steps
 4. Start the backend:
     node server.js
 5. Deploy the frontend:
-   Open a browser and navigate to (http://localhost/test/frontend/index.php)
+   Open a browser and navigate to (http://localhost/note-app-main/frontend/index.php)
 
 笔记应用
 
@@ -38,5 +38,5 @@ npm install
 node server.js
 
 5.部署前端
-浏览器打开 (http://localhost(http://localhost/test/frontend/index.php)
+浏览器打开 (http://localhost/note-app-main/frontend/index.php)
 
