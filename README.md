@@ -38,5 +38,5 @@ npm install
 node server.js
 
 5.部署前端
-浏览器打开 http://localhost/notes/index.php.
+浏览器打开 (http://localhost(http://localhost/test/frontend/index.php)
 
